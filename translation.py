@@ -3,9 +3,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Translation(object):
 
     START_TEXT = """ 
-Hai {} , \n\n`I Will Convert Youtube Link to Video/File & Mp3`. \n\n`For more details Press` /help.
+Hai {} , \n\n`I Will Download Any Youtube Link to Video/File & Mp3`. \n\n`For more details Press` /help.
 
-👲 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ :** [ʙx ʙᴏᴛᴢ](https://telegram.me/BX_Botz)
+👲 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ :** [NaySaBOT](https://telegram.me/NaysaBot)
 """
     HELP_TEXT = """
 <b><u>Link to Media or File</u></b>
@@ -24,8 +24,8 @@ Made by @BX_Botz
 """
     ABOUT_TEXT = """
 - **Bot :** `YouTube Downloader`
-- **Creator :** [ᴍʜᴅ ᴍᴜꜰᴀᴢ](https://telegram.me/Mufaz123)
-- **Channel :** [ʙx ʙᴏᴛᴢ](https://telegram.me/BX_Botz)
+- **Creator :** [Tellybots](https://telegram.me/tellybots)
+- **Channel :** [NaysaBots](https://telegram.me/NaysaBots)
 - **Credits :** `Everyone in this journey`
 - **Source :** [Click here](https://t.me/nokiyirunnoippokitum)
 - **Language :** [Python3](https://python.org)
