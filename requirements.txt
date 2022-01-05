@@ -11,4 +11,4 @@ pyrogram
 feedparser
 requests
 tgcrypto
-youtube-dl
+yt-dlp
