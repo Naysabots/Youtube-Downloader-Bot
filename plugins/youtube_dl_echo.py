@@ -22,7 +22,7 @@ import requests
 if bool(os.environ.get("WEBHOOK", False)):
     from sample_config import Config
 else:
-    from config import Config
+    from sample_config import Config
 
 from translation import Translation
 
